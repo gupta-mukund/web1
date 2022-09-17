@@ -66,11 +66,18 @@ h2 {
   height: 100%;
 }
 
+#descrip-box {
+  margin: auto;
+  margin-top: 5vh;
+  width: 80%;
+}
+
 .descrip {
   text-align: justify;
   text-justify: inter-word;
   font-size: 120%;
-  padding: 10vh;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
   padding-top: 0;
   margin-bottom: 0;
   letter-spacing: 1px;
